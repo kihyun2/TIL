@@ -1,5 +1,5 @@
 # TIL
-> Today I Learned
+> **Today I Learned**
 
 > 2022년 05월 19일 목요일
 
