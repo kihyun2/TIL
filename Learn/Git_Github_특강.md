@@ -1,7 +1,7 @@
-# Git/GitHub 특강
+# :fire: Git/GitHub 특강
 
 **목록**
-- [Git/GitHub 특강](#gitgithub-특강)
+- [:fire: Git/GitHub 특강](#fire-gitgithub-특강)
   - [Git 초기 설정](#git-초기-설정)
   - [로컬 저장소](#로컬-저장소)
   - [Git 기본 명령어](#git-기본-명령어)
