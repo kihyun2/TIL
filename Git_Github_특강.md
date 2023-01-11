@@ -5,14 +5,14 @@
 [Git 초기 설정](##Git-초기-설정)  
 [로컬 저장소](##로컬-저장소)  
 [Gir 기본 명령어](##Gir-기본-명령어)  
-[git init](###git-init)  
-[git status](###git-status)  
-[git add](###git-add)  
-[git commit](###git-commit)  
-[git log](###git-log)  
+    [git init](###git-init)  
+    [git status](###git-status)  
+    [git add](###git-add)  
+    [git commit](###git-commit)  
+    [git log](###git-log)  
 [원격 저장소](##원격-저장소)  
-[git remote](###git-remote)  
-[git push](###git-push)  
+    [git remote](###git-remote)  
+    [git push](###git-push)  
 
 ---
 
