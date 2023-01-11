@@ -1,6 +1,6 @@
 # :fire: Git/GitHub 특강
 
-**목록**
+**목차**
 - [:fire: Git/GitHub 특강](#fire-gitgithub-특강)
   - [Git 초기 설정](#git-초기-설정)
   - [로컬 저장소](#로컬-저장소)
