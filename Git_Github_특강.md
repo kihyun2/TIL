@@ -1,4 +1,4 @@
-# Git/GitHub 특강
+# :fire: Git/GitHub 특강
 
 
 목차  
