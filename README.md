@@ -1,5 +1,4 @@
-# TIL
-> **Today I Learned**
+# Git
 
 > 2022년 05월 19일 목요일
 
