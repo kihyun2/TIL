@@ -7,5 +7,5 @@
 ---
 **목차**
 - **Git_GitHub**
-  - [Git](Git.md)
-  - [Git_Github_특강](Git_Github_특강)
+  - [Git](/TIL/Git_Github/Git.mdGit.md)
+  - [Git_Github_특강](/TIL/Git_Github/Git_Github_특강.md)
