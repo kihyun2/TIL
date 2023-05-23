@@ -1,7 +1,7 @@
 # README
   
 
-:fire: :fire: What did you do Today? :fire:
+:fire: :fire: What did you do Today? :fire: :fire:
   
   
 ---
